@@ -1,0 +1,142 @@
+{
+    "proformaItem": [
+        {
+            "product_id": "1852",
+            "productDescription": "Charcoal Size M",
+            "categoryDescription": "7200 Premium Tee",
+            "product_stock": "[{\"1\": 272}, {\"3\": 5328}, {\"5\": 177}]",
+            "items": "[{\"qty\": 1, \"productId\": 1852, \"proformaInfoId\": 556745, \"proformaItemId\": 2679283}]"
+        },
+        {
+            "product_id": "1801",
+            "productDescription": "Black Size S",
+            "categoryDescription": "7200 Premium Tee",
+            "product_stock": "[{\"1\": 745}, {\"3\": 30744}, {\"5\": 273}]",
+            "items": "[{\"qty\": 1, \"productId\": 1801, \"proformaInfoId\": 556745, \"proformaItemId\": 2679284}]"
+        },
+        {
+            "product_id": "1968",
+            "productDescription": "Dark Chocolate Size M",
+            "categoryDescription": "7200 Premium Tee",
+            "product_stock": "[{\"1\": 254}, {\"3\": 0}, {\"5\": 144}]",
+            "items": "[{\"qty\": 1, \"productId\": 1968, \"proformaInfoId\": 556745, \"proformaItemId\": 2679285}]"
+        },
+        {
+            "product_id": "2110",
+            "productDescription": "Carolina Blue Size L",
+            "categoryDescription": "7200 Premium Tee",
+            "product_stock": "[{\"3\": 2448}, {\"1\": 261}, {\"5\": 171}]",
+            "items": "[{\"qty\": 1, \"productId\": 2110, \"proformaInfoId\": 556745, \"proformaItemId\": 2679286}]"
+        },
+        {
+            "product_id": "1915",
+            "productDescription": "Paper Bag Cititex",
+            "categoryDescription": "Marketing Toolkit",
+            "product_stock": "[{\"1\": 100}, {\"5\": 59}]",
+            "items": "[{\"qty\": 1, \"productId\": 1915, \"proformaInfoId\": 556745, \"proformaItemId\": 2679287}]"
+        },
+        {
+            "product_id": "1097",
+            "productDescription": "Black Size M",
+            "categoryDescription": "3600 Soft-Tee",
+            "product_stock": "[{\"1\": 688}, {\"3\": 54720}, {\"5\": 391}]",
+            "items": "[{\"qty\": 72, \"productId\": 1097, \"proformaInfoId\": 556749, \"proformaItemId\": 2679329}]"
+        },
+        {
+            "product_id": "1098",
+            "productDescription": "Black Size L",
+            "categoryDescription": "3600 Soft-Tee",
+            "product_stock": "[{\"1\": 696}, {\"3\": 75960}, {\"5\": 310}]",
+            "items": "[{\"qty\": 72, \"productId\": 1098, \"proformaInfoId\": 556749, \"proformaItemId\": 2679330}]"
+        },
+        {
+            "product_id": "1107",
+            "productDescription": "Navy Size M",
+            "categoryDescription": "3600 Soft-Tee",
+            "product_stock": "[{\"1\": 378}, {\"3\": 7488}, {\"5\": 164}]",
+            "items": "[{\"qty\": 72, \"productId\": 1107, \"proformaInfoId\": 556749, \"proformaItemId\": 2679331}]"
+        },
+        {
+            "product_id": "1108",
+            "productDescription": "Navy Size L",
+            "categoryDescription": "3600 Soft-Tee",
+            "product_stock": "[{\"1\": 400}, {\"3\": 10368}, {\"5\": 183}]",
+            "items": "[{\"qty\": 72, \"productId\": 1108, \"proformaInfoId\": 556749, \"proformaItemId\": 2679332}]"
+        },
+        {
+            "product_id": "1109",
+            "productDescription": "Navy Size XL",
+            "categoryDescription": "3600 Soft-Tee",
+            "product_stock": "[{\"1\": 375}, {\"3\": 7848}, {\"5\": 123}]",
+            "items": "[{\"qty\": 72, \"productId\": 1109, \"proformaInfoId\": 556749, \"proformaItemId\": 2679333}, {\"qty\": 1, \"productId\": 1109, \"proformaInfoId\": 556755, \"proformaItemId\": 2679358}]"
+        },
+        {
+            "product_id": "1629",
+            "productDescription": "Black Size M",
+            "categoryDescription": "8100 Polo Shirt",
+            "product_stock": "[{\"3\": 11268}, {\"1\": 225}, {\"5\": 70}]",
+            "items": "[{\"qty\": 36, \"productId\": 1629, \"proformaInfoId\": 556749, \"proformaItemId\": 2679334}]"
+        },
+        {
+            "product_id": "1630",
+            "productDescription": "Black Size L",
+            "categoryDescription": "8100 Polo Shirt",
+            "product_stock": "[{\"3\": 11700}, {\"1\": 242}, {\"5\": 52}]",
+            "items": "[{\"qty\": 36, \"productId\": 1630, \"proformaInfoId\": 556749, \"proformaItemId\": 2679335}]"
+        },
+        {
+            "product_id": "1631",
+            "productDescription": "Black Size XL",
+            "categoryDescription": "8100 Polo Shirt",
+            "product_stock": "[{\"3\": 12348}, {\"1\": 221}, {\"5\": 47}]",
+            "items": "[{\"qty\": 36, \"productId\": 1631, \"proformaInfoId\": 556749, \"proformaItemId\": 2679336}]"
+        },
+        {
+            "product_id": "1802",
+            "productDescription": "Black Size M",
+            "categoryDescription": "7200 Premium Tee",
+            "product_stock": "[{\"1\": 525}, {\"3\": 129528}, {\"5\": 670}]",
+            "items": "[{\"qty\": 144, \"productId\": 1802, \"proformaInfoId\": 556749, \"proformaItemId\": 2679337}]"
+        },
+        {
+            "product_id": "1803",
+            "productDescription": "Black Size L",
+            "categoryDescription": "7200 Premium Tee",
+            "product_stock": "[{\"1\": 426}, {\"3\": 130176}, {\"5\": 577}]",
+            "items": "[{\"qty\": 144, \"productId\": 1803, \"proformaInfoId\": 556749, \"proformaItemId\": 2679338}]"
+        },
+        {
+            "product_id": "1099",
+            "productDescription": "Black Size XL",
+            "categoryDescription": "3600 Soft-Tee",
+            "product_stock": "[{\"1\": 692}, {\"3\": 43560}, {\"5\": 500}]",
+            "items": "[{\"qty\": 1, \"productId\": 1099, \"proformaInfoId\": 556755, \"proformaItemId\": 2679359}]"
+        },
+        {
+            "product_id": "1888",
+            "productDescription": "Navy Size XL",
+            "categoryDescription": "9600 Zip Hooded Sweatshirt",
+            "product_stock": "[{\"3\": 600}, {\"1\": 38}, {\"5\": 9}]",
+            "items": "[{\"qty\": 1, \"productId\": 1888, \"proformaInfoId\": 556755, \"proformaItemId\": 2679360}]"
+        }
+    ],
+    "location": [
+        {
+            "id": 1,
+            "name": "Jakarta - Kedoya"
+        },
+        {
+            "id": 3,
+            "name": "Tangerang - Dadap"
+        },
+        {
+            "id": 5,
+            "name": "Bekasi - Galaxy"
+        }
+    ],
+    "proformaInfoId": [
+        "556745-Bekasi COD",
+        "556749-Jimmy Cititex Palembang",
+        "556755-Rahman // Shopee kedoya  // 210926A9CQHEQ2"
+    ]
+}
